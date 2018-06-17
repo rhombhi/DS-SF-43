@@ -1,0 +1,13 @@
+cols = ["loan_amnt","term","int_rate","grade","emp_length","home_ownership","annual_inc","purpose","dti","delinq_2yrs","fico_avg","inq_last_6mths","open_acc","revol_bal","total_acc"]
+
+
+cols = ["loan_amnt","term","int_rate","grade","emp_length","home_ownership","annual_inc","dti","delinq_2yrs","fico_avg","inq_last_6mths","open_acc","revol_bal","total_acc"]
+
+cols = ["loan_amnt","term","int_rate","emp_length","home_ownership","annual_inc","dti","delinq_2yrs","fico_avg","inq_last_6mths","open_acc","revol_bal","total_acc"]
+
+cols = ["loan_amnt","term","int_rate","home_ownership","annual_inc","dti","delinq_2yrs","fico_avg","inq_last_6mths","open_acc","revol_bal","total_acc"]
+
+cols = ["loan_amnt","term","int_rate","annual_inc","dti","delinq_2yrs","fico_avg","inq_last_6mths","open_acc","revol_bal","total_acc"]
+
+
+{'max_depth': 9, 'max_features': 5, 'n_estimators': 350}
